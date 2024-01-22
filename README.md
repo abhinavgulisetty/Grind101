@@ -1,4 +1,4 @@
 # Grind101
-The first repo and the most Important one
+Grinding all the way to success 
 <br>
 Author : Gulisetty Abhinav
